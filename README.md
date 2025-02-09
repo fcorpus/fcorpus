@@ -19,8 +19,8 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fcorpus&show_icons=true&locale=en" alt="fcorpus" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daphish&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="daphish">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fcorpus&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="daphish">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daphish&show_icons=true&theme=tokyonight&locale=en" alt="daphish" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fcorpus&show_icons=true&theme=tokyonight&locale=en" alt="daphish" />
 </p>
