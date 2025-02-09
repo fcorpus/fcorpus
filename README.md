@@ -1,6 +1,9 @@
 <h1 align="center">Hellooo I'm Francisco :]</h1>
 <h3 align="center">A Computer Science studient that loves game development and FrontEnd web design</h3>
 
+<div align="center"><img src="https://i.pinimg.com/originals/b9/75/38/b97538308e1306f57ba09d21d59b7864.gif" width="500px"></div>
+
+
 - 🔭 I’m currently working on **Getting my degree**
 
 - 🌱 I’m currently learning **Angular, Laravel, Boostrap, Unity, Love3D and more :D**
