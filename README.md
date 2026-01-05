@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/francisco-alejandro-castillo-corpus/">LinkedIn</a>
+  Email: acastillocorpus05@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
