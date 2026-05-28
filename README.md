@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Getting my degree & building my portfolio**
 
-- 🌱 I’m currently learning **Angular, Laravel, Boostrap, React, Unity, Love3D and more :D**
+- 🌱 I’m currently learning **Angular, Laravel, Boostrap, React, Unity, Love3D and Godot :D**
 
 - 👯 I’m looking to collaborate on **anything game dev :] or really anything im open to learn**
 
