@@ -1,5 +1,5 @@
 <h1 align="center">Hellooo I'm Francisco :]</h1>
-<h3 align="center">A Computer Science studient that loves game development and FrontEnd web design</h3>
+<h3 align="center">A Software dev that loves game development and FrontEnd web design</h3>
 
 <div align="center"><img src="https://i.pinimg.com/originals/b9/75/38/b97538308e1306f57ba09d21d59b7864.gif" width="500px"></div>
 
@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/francisco-alejandro-castillo-corpus/">LinkedIn</a> <br>
+  <a href="https://birote.itch.io/">My itch.io</a>
   Email: acastillocorpus05@gmail.com
 </p>
 
